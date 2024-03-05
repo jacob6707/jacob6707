@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Jakov!
+---
+
+🏫 High school student at Technical School Ruđer Bošković Zagreb
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a full-stack Chat Application
 
 <!--
 **jacob6707/jacob6707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
