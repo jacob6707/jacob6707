@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Jakov!
----
 
 🏫 College student at Technical University of Zagreb
 - 🌱 I’m currently learning C++ and Game Development
