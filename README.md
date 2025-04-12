@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jakov!
+## Hi there 👋, I'm Jakov!
 ---
 
 🏫 College student at Technical University of Zagreb
